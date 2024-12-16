@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.3.3",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "rebalanced_trees.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "rebalanced_trees.html": {
+      "checksum": "e09e277871a1e34f9f935cd243136f62"
+    }
+  },
+  "users": null
+}
